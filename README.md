@@ -1,2 +1,2 @@
 # bs_enm
-Rename Ericsson Base Station Name use Rest Api ENM OSS
+Rename ericsson base station on REST API OSS ericsson element network manager.
