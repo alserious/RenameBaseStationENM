@@ -1,2 +1,3 @@
-# Ericsson_Rename_BaseStation
+# Ericsson Rename BaseStation ENM
+
 Rename ericsson base station on REST API OSS ericsson element network manager.
